@@ -1,0 +1,564 @@
+C:\cuda\cudatoolkit\include\cuda_runtime.h
+c:\cuda\cudatoolkit\include\host_config.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\sal.h
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\codeanalysis\sourceannotations.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\vadefs.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\limits.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stddef.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\channel_descriptor.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\cuda_runtime_api.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\cuda_device_runtime_api.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\cuda_runtime_api.h
+c:\cuda\cudatoolkit\include\driver_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\vector_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\common_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wtime.inl
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl
+c:\cuda\cudatoolkit\include\math_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cmath
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\yvals.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\use_ansi.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdlib
+c:\cuda\cudatoolkit\include\cuda_surface_types.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\channel_descriptor.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\cuda_texture_types.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\channel_descriptor.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\device_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_11_atomic_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_12_atomic_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_13_double_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_20_atomic_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_32_atomic_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_35_atomic_functions.h
+c:\cuda\cudatoolkit\include\sm_32_atomic_functions.h
+c:\cuda\cudatoolkit\include\sm_20_intrinsics.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_30_intrinsics.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_32_intrinsics.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\sm_35_intrinsics.h
+c:\cuda\cudatoolkit\include\sm_32_intrinsics.h
+c:\cuda\cudatoolkit\include\surface_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\cuda_surface_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\vector_functions.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\texture_fetch_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\cuda_texture_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_functions.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\texture_indirect_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\vector_functions.h
+c:\cuda\cudatoolkit\include\surface_indirect_functions.h
+c:\cuda\cudatoolkit\include\builtin_types.h
+c:\cuda\cudatoolkit\include\device_types.h
+c:\cuda\cudatoolkit\include\driver_types.h
+c:\cuda\cudatoolkit\include\surface_types.h
+c:\cuda\cudatoolkit\include\texture_types.h
+c:\cuda\cudatoolkit\include\vector_types.h
+c:\cuda\cudatoolkit\include\host_defines.h
+c:\cuda\cudatoolkit\include\vector_functions.h
+c:\cuda\cudatoolkit\include\device_launch_parameters.h
+c:\cuda\cudatoolkit\include\vector_types.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cassert
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windows.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\excpt.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdarg.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnt.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ctype.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\specstrings.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\sal_supp.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\specstrings_supp.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\specstrings_strict.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\specstrings_undef.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\driverspecs.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\sdv_driverspecs.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\kernelspecs.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\guiddef.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack4.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\poppack.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack4.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack4.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack4.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack2.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\poppack.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack2.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack2.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\poppack.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\pshpack8.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\poppack.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\ktmtypes.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winbase.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winerror.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wingdi.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack2.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack2.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack4.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack4.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winuser.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack2.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\tvout.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnls.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wincon.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winver.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\verrsrc.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winreg.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\reason.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winnetwk.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wnnc.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\cderr.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\dde.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\ddeml.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\dlgs.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\lzexpand.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\mmsystem.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\nb30.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\rpc.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\rpcdce.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\rpcdcep.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\rpcnsi.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\rpcnterr.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\rpcasync.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\shellapi.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winperf.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack8.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winsock.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\inaddr.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wincrypt.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\bcrypt.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\ncrypt.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\bcrypt.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winefs.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winscard.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wtypes.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\rpcndr.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack8.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\rpcnsip.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\rpcsal.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\guiddef.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winioctl.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winsmcrd.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winspool.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\prsht.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack4.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\ole2.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack8.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\objbase.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack8.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\unknwn.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\objidl.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\guiddef.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\cguid.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\urlmon.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\oleidl.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\servprov.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\msxml.h
+c:\program files (x86)\microsoft sdks\windows\v7.0a\include\oaidl.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\propidl.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\oleauto.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack8.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\commdlg.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\prsht.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\pshpack1.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\poppack.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\stralign.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\winsvc.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\mcx.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\imm.h
+c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\ime_cmodes.h
+C:\cuda\cudatoolkit\include\cuda_runtime.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\istream
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ostream
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ios
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\climits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstring
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\exception
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xstddef
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cstddef
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\eh.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\malloc.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xstring
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\new
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xutility
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\utility
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdbg.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\type_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\limits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\float.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtwrn.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xtr1common
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxtype_traits
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xdebug
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\system_error
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\errno.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\share.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\iostream
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\sstream
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\fstream
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\vector
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\memory
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\intrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\setjmp.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\immintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\nmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\smmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\tmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\pmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\emmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ammintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mm3dnow.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\mmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfwrap1
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xxshared
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xfunctional
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h

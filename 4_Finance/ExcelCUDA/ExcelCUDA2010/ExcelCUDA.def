@@ -1,0 +1,12 @@
+LIBRARY	"ExcelCUDA.xll"
+
+EXPORTS
+	xlAutoOpen
+	xlAutoClose
+	xlAutoAdd
+	xlAddInManagerInfo12
+	xlAutoFree12
+	CUDAHello
+	CUDAPriceAsian
+	CUDACalculatePiMC
+
